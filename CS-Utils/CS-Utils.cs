@@ -12,12 +12,12 @@ namespace CS_Utils {
     public class ModInfo : IUserMod {
         public string Name {
             get {
-                return "Experimental Mod";
+                return "CS-Utils";
             }
         }
         public string Description {
             get {
-                return "github.com/nailujx86";
+                return "github.com/nailujx86/CS-Utils Ctrl+Shift+L to view Limits, Ctrl+Shift+M to get 100k";
             }
         }
     }
